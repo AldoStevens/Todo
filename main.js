@@ -4,7 +4,7 @@ let listElement = document.querySelector("ul");
 let totalTaskElement = document.querySelector('#total-task');
 
 let taskList = [
-    'Buy groceries', 'Car service'
+    'Buy Milk', 'Feed the Dog'
 ];
 
 function deleteItem(e){
